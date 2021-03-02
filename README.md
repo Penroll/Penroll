@@ -4,7 +4,7 @@ My name is Seamus, and I'm a Computer Science student full time at university. I
 
 ### Advent of Code
 
-I tried some of [Advent of Code]https://github.com/Penroll/Advent-Of-Code-2020 while I still had free time during the holidays.
+I tried some of [Advent of Code](https://github.com/Penroll/Advent-Of-Code-2020) while I still had free time during the holidays.
 
 
 

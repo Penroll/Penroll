@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello! 👋
+
+My name is Seamus, and I'm a Computer Science student full time at university. I mainly code in Java, but I have some Python experience and I'm looking into JavaScript/CSS for making websites. 
+
+### Advent of Code
+
+I tried some of [Advent of Code]https://github.com/Penroll/Advent-Of-Code-2020 while I still had free time during the holidays.
+
+
 
 <!--
 **Penroll/Penroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
